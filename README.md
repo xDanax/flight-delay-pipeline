@@ -112,7 +112,7 @@ flight-delay-pipeline/
 
 ## 💻 Database Output
 
-- The transformed tables are stored in SQLite as:
+The transformed tables are stored in SQLite as:
 
   `agg_city_metrics`
 
