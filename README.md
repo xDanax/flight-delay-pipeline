@@ -11,7 +11,7 @@
 ## ⚙️ Tech Stack
 - Python (pandas, sqlite3, pathlib)
 
-- SQLite (lightweight analytical database)
+- SQLite
 
 - CSV data ingestion
 
