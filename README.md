@@ -2,7 +2,7 @@
 
 ## 🎯Project Overview
 
-- An automated end-to-end data pipeline to ingest, clean, transform, and store U.S. flight delay data for analytical use, taken from the [Bureau of Transport Statistics](https://www.bts.gov/).  
+- An end-to-end Python data pipeline that automatically ingests, cleans, transforms, and loads U.S. flight delay data into SQLite for analytical use, taken from the [Bureau of Transport Statistics](https://www.bts.gov/).  
 
 - The goal is to simulate a real-world data engineering + analytics workflow, producing clean, query-ready tables that can be used to analyze flight delays by city and day of the week.
 
